@@ -1,4 +1,9 @@
 ## Hi, i'm Matheus Silva
+
+<p>I'm a open source oriented developer, i tend to whatever i do think about others first and think if anything that can be done can be open sourced. SInce the beginning this made me grow so much! I was capable of learning best practices in all scenarios, new tools, new ways of coding! Everything! The way that a product and a project should grow is end user first!</p>
+
+<p>Apart from tech i'm also into crypto, including defi, yield farm, and everything related to blockchains! I'm currently learning react-native and solidty/web3js side by side on a side projetct i'm developing! This is being done in cooperation with a friend designer! We aim to deliver some really good UX and a product that actually works. We used our own needs and some friends opinions to shape up the interations and features!</p>
+
  <div>
   <a href="https://github.com/matheus1lva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus1lva&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
