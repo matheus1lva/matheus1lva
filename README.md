@@ -1,9 +1,10 @@
 ## Hi, i'm Matheus Silva
 
-<p>I'm a open source oriented developer, i tend to whatever i do think about others first and think if anything that can be done can be open sourced. SInce the beginning this made me grow so much! I was capable of learning best practices in all scenarios, new tools, new ways of coding! Everything! The way that a product and a project should grow is end user first!</p>
-<p>Mainly my main goal is to be as generalist as possible, having more tools under my belt is the best way to find the best tool for the situation! Fullstack focused, with a bit of PM/PO on top!</p>
+<p>With over 15 years of experience in software engineering, I specialize in crafting technology solutions that drive business transformation. My expertise spans backend and frontend development, with a strong focus on building distributed architectures and high-performance serverless systems.</p> 
 
-<p>Apart from tech i'm also into crypto, including defi, yield farm, and everything related to blockchains! I'm currently learning react-native and solidty/web3js side by side on a side projetct i'm developing! This is being done in cooperation with a friend designer! We aim to deliver some really good UX and a product that actually works. We used our own needs and some friends opinions to shape up the interations and features!</p>
+<p>Proficient in AWS (Lambda, SNS, SQS, Kinesis), I’ve built robust solutions for large platforms, including hospital management systems and blockchain marketplaces. </p>
+
+<p>What sets me apart is my ability to combine technical efficiency with a deep understanding of user needs, resulting in products that deliver measurable results. I’m seeking global opportunities where I can apply my skills and lead projects that make a direct impact on business success.</p>
 
  <div>
   <a href="https://github.com/matheus1lva">
