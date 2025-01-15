@@ -1,4 +1,4 @@
-## Hi, i'm Matheus Silva
+# Hi, i'm Matheus Silva
 
 <p>With over 15 years of experience in software engineering, I specialize in crafting technology solutions that drive business transformation. My expertise spans backend and frontend development, with a strong focus on building distributed architectures and high-performance serverless systems.</p> 
 
@@ -33,3 +33,9 @@
   <a href = "mailto:matheus.g.silva@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusgsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+## Skillset showcase
+
+<a href="https://github.com/matheus1lva/backend-example">backend</a>
+<a href="https://github.com/matheus1lva/backend-bitcoin">backend with fe in a monorepo</a>
