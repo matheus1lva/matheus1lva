@@ -37,5 +37,8 @@
 
 ## Skillset showcase
 
+In case you are looking for repos that showcase my skills:
+
 <a href="https://github.com/matheus1lva/backend-example">backend</a>
 <a href="https://github.com/matheus1lva/backend-bitcoin">backend with fe in a monorepo</a>
+<a href="https://github.com/matheus1lva/infra-example">Infra as code</link>
